@@ -35,3 +35,7 @@ Economics: Understanding market failures as information entropy problems.
 Technology: Evaluating hardware/software based on personal workflow rather than synthetic benchmarks.
 
 Psychology: Defending against "Information Cascades" and social herding by maintaining a personal benchmark.
+
+## References
+Simon, H. A., William Stanley Jevons, Léon Walras, Carl Menger and David Guest
+
