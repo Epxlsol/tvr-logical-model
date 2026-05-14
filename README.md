@@ -25,16 +25,16 @@ Function: Optimizes time and thinking. It acknowledges the stopping rule, search
 
 T + V: Deep mastery is only looked at in areas of high personal value.
 
-V + R: Rationality is used to maximize joy, not just numbers or monetary values.
+V + R: Rationality is used to maximize satisfaction, not just monetary values.
 
-R + T: General knowledge is used to identify when a specialist's ground truth is actually worth the cost.
+R + T: General knowledge is used to know when a specialist's ground truth is actually worth the cost.
 
 Applications:
-Economics: Understanding market failures as information entropy problems.
+Economics: Understanding market failures as information uncertainty.
 
-Technology: Evaluating hardware/software based on personal workflow rather than synthetic benchmarks.
+Technology: Evaluating hardware and software based on personal workflow rather than synthetic benchmarks.
 
-Psychology: Defending against "Information Cascades" and social herding by maintaining a personal benchmark.
+Psychology: Defending against "Information Cascades" and social herding by maintaining a personal checklist.
 
 ## References
 Simon, H. A., William Stanley Jevons, Léon Walras, Carl Menger and David Guest
