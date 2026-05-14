@@ -23,7 +23,7 @@ $$S = \omega_v(V) + \omega_r(R) + \omega_t(T)$$
 
 Function: Optimizes time and thinking. It acknowledges the stopping rule, searching for the ground truth is only rational when the risk of being wrong leads to systemic ruin.
 
-T + V: Deep mastery is only looked at in areas of high personal value.
+T + V: Deep research is only looked at in areas of high personal value.
 
 V + R: Rationality is used to maximize satisfaction, not just monetary values.
 
