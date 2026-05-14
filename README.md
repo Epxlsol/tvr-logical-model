@@ -5,7 +5,7 @@ The TVR model is a model to reach maximum efficiency to solve the optimization p
 
 The trio:
 [T] T-Shaped Theory
-Concept: A combination of broad "horizontal" knowledge across multiple areas and deep "vertical" mastery in specific high interest areas.
+Concept: A combination of broad 'horizontal' knowledge across multiple areas and deep 'vertical' knowledge in specific high interest areas.
 
 Function: Provides optionality as by understanding the broad basics, you can spot patterns across different markets or technologies that specialised frameworks and experts will miss.
 
