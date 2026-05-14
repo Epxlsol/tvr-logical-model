@@ -17,6 +17,10 @@ Function: Acts as a Noise Filter/Entropy. It prevents resource misallocation by 
 [R] Rational effiency
 Concept: The use of logic to reach a point of being good enough (satisficing) without wasting energy on skyrocketing costs of perfect information.
 
+Mathematical model with weights (WIP):
+$$S = \omega_v(V) + \omega_r(R) + \omega_t(T)$$
+
+
 Function: Optimizes time and thinking. It acknowledges the stopping rule, searching for the ground truth is only rational when the risk of being wrong leads to systemic ruin.
 
 T + V: Deep mastery is only looked at in areas of high personal value.
