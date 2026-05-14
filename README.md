@@ -1,5 +1,5 @@
 # tvr-logical-model
-A trio of economic models to understand how to optimize effectively on individuals satisfaction and resource allocation.
+A trio of Economic Theory, Cognitive Psychology, and Management Strategy to understand how to optimize effectively on individuals satisfaction and resource allocation.
 
 The TVR model is a model to reach maximum efficiency to solve the optimization paradox and as people are unable to reach truly perfect information we look at subjective satisfaction instead of theorical ones.
 
