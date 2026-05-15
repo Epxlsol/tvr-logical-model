@@ -4,6 +4,7 @@ A trio of Economic Theory, Cognitive Psychology, and Management Strategy to unde
 The TVR model is a model to reach maximum efficiency to solve the optimization paradox and as people are unable to reach truly perfect information we look at subjective satisfaction instead of theorical ones. This model can be weighted to modify it to be better for societal benefit or external benefit instead of private benefit.
 
 The trio:
+
 [T] T-Shaped Theory
 Concept: A combination of broad 'horizontal' knowledge across multiple areas and deep 'vertical' knowledge in specific high interest areas.
 
